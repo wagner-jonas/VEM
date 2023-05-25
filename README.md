@@ -44,6 +44,7 @@ Access to ICE-Nigeria is open; it is available at https://sourceforge.net/projec
 
 VEM includes the tags used by ICE to identify utterances and/or documents. As the structure can vary slightly between ICE corpora, we can only give a brief overview here. 
 In general, filenames of the ICE corpora consist of those parts of the tags that follow the identifier of the ICE corpus (e.g. "ICE-CAN:" or "ICE-HK:"); for instance, ICE-Canada contains files like "W2E-004" or "W1B-018". These identify the genre and document number:
+	
 	-W1: non-printed documents
 		-W1A: student writings
 		-W1B: letters
@@ -54,6 +55,7 @@ In general, filenames of the ICE corpora consist of those parts of the tags that
 		-W2D: instructional writing (administrative; skills and hobbies)
 		-W2E: persuasive writing (e.g. editorials)
 		-W2F: creative writing (e.g. novels, short stories) 
+
 Please refer to the ICE handbooks for more information.
 
 Following this, the tags contain information about the utterance's position within the document. 
