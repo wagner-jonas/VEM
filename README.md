@@ -4,7 +4,7 @@
 
 Created: May 2023
 
-Thank you for your interest in the Varieties of English modal sense corpus (VEM). The data is available at: INSERT URL
+Thank you for your interest in the Varieties of English modal sense corpus (VEM). The data is available at: https://github.com/wagner-jonas/VEM
 
 The data for this dataset is itself taken from the written component of the International Corpus of English (ICE). For more information on the corpus, please visit https://www.ice-corpora.uzh.ch/en.html
 
